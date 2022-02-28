@@ -39,7 +39,7 @@ namespace WindowsFormsApp1
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(131, 81);
             this.button1.TabIndex = 0;
-            this.button1.Text = "btnTungok";
+            this.button1.Text = "btnThuyok";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
